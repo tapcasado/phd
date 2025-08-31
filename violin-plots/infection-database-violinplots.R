@@ -104,7 +104,7 @@ resumen_biomarc
 #### lipocalin2 - ptx3 - il6 - tnfa
 
 # vamos a guardar el plot como .png:
-png("violinp_lipocalin2_ptx3_il6_tnfa3.png", width=1200, height=1000, res=150)
+png("violinp_lipocalin2_ptx3_il6_tnfa-f.png", width=1200, height=1000, res=150)
 # vamos a guardar el plot como SVG (vectorial)
 # svg("violin_plots1.svg", width=8, height=6)
 
@@ -247,7 +247,7 @@ dev.off()
 #### IFNa - ifng - il7 - grana
 
 # vamos a guardar el plot como .png:
-png("violinp_ifna_ifng_il7_grana.png", width=1200, height=1000, res=150)
+png("violinp_ifna_ifng_il7_grana-f.png", width=1200, height=1000, res=150)
 # vamos a guardar el plot como SVG (vectorial)
 # svg("violin_plots1.svg", width=8, height=6)
 
@@ -386,7 +386,7 @@ dev.off()
 #### ddimer - endoth - il15 - ccl2
 
 # vamos a guardar el plot como .png:
-png("violinp_ddimerx2_endoth_il15.png", width=1200, height=1000, res=150)
+png("violinp_ddimerx2_endoth_il15-f.png", width=1200, height=1000, res=150)
 # vamos a guardar el plot como SVG (vectorial)
 # svg("violin_plots1.svg", width=8, height=6)
 
@@ -524,7 +524,7 @@ dev.off()
 #### ccl2 - cxcl10 - il10 - b7h1
 
 # vamos a guardar el plot como .png:
-png("violinp_ccl2_cxcl10_il10_b7h12.png", width=1200, height=1000, res=150)
+png("violinp_ccl2_cxcl10_il10_b7h1-f.png", width=1200, height=1000, res=150)
 # vamos a guardar el plot como SVG (vectorial)
 # svg("violin_plots1.svg", width=8, height=6)
 
@@ -664,7 +664,7 @@ dev.off()
 #### il2 - il4 - gmcsf - ccl5
 
 # vamos a guardar el plot como .png:
-png("violinp_il2_il4_gmcsf_ccl54.png", width=1200, height=1000, res=150)
+png("violinp_il2_il4_gmcsf_ccl5-f.png", width=1200, height=1000, res=150)
 # vamos a guardar el plot como SVG (vectorial)
 # svg("violin_plots1.svg", width=8, height=6)
 
@@ -803,7 +803,7 @@ dev.off()
 
 
 # vamos a guardar el plot como .png:
-png("violinp_n1copies_antis_antin6.png", width=1200, height=1000, res=150)
+png("violinp_n1copies_antis_antin-f.png", width=1200, height=1000, res=150)
 # vamos a guardar el plot como SVG (vectorial)
 # svg("violin_plots1.svg", width=8, height=6)
 
